@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola! 👋
+
+Mi nombre es Gonzalo Dieguez Gaviola, licenciado de la Carrera de **Ciencias Ambientales** de la UBA. Actualmente me encuentro cursando la carrera de **"Introducción a la Ingenería en Inteligencia Artificial"** en el Instituto Humai. 
+
 
 <!--
 **GDieguezG/GDieguezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
