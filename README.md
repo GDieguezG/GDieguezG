@@ -10,6 +10,8 @@ Tengo especial interés en el área de la Inteligencia Artificial, enfocada en l
 
 📫: gonzalodieguezgaviola@gmail.com
 
+![1694632911911](https://github.com/GDieguezG/GDieguezG/assets/69656526/a77a1b9c-4741-4c14-8f4f-b071da106ded)
+
 <!--
 Agregar Herramientas con Iconos
 
