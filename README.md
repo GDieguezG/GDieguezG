@@ -8,5 +8,8 @@ Durante mi trayectoria profesional fui adquiriendo conocimientos en el área de 
 
 Tengo especial interés en el área de la Inteligencia Artificial, enfocada en la tematica ambiental, para ayudar en la toma de decisiones y en la resolución de problemas ambientales.
 
-
 📫: gonzalodieguezgaviola@gmail.com
+
+<!--
+Agregar Herramientas con Iconos
+
