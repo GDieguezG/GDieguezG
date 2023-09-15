@@ -1,19 +1,12 @@
 ### Hola! 👋
 
-Mi nombre es Gonzalo Dieguez Gaviola, licenciado de la Carrera de **Ciencias Ambientales  ** de la UBA. Actualmente me encuentro cursando la carrera de **"Introducción a la Ingenería en Inteligencia Artificial"** :robot: en el Instituto Humai. 
+Mi nombre es Gonzalo Dieguez Gaviola, licenciado de la Carrera de **Ciencias Ambientales** 🌳 de la UBA. Actualmente me encuentro cursando la carrera de **"Introducción a la Ingenería en Inteligencia Artificial"** 🤖 en el Instituto Humai. 
+
+Actualmente me encuentro trabajando en el Instituto Geográfico Nacional, desarrollando mapas de cobertura del suelo a nivel nacional :map: y aplicaciones web :computer: para el área de Aplicaciones Geoespaciales.
+
+Durante mi trayectoria profesional fui adquiriendo conocimientos en el área de la programación, principalmente en el lenguaje Python, y en el área de la geoinformática, utilizando herramientas como QGIS, ArcGIS, Google Earth Engine, SAGA, entre otras.
+
+Tengo especial interés en el área de la Inteligencia Artificial, enfocada en lo ambiental, para ayudar en la toma de decisiones y en la resolución de problemas ambientales.
 
 
-<!--
-**GDieguezG/GDieguezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫: gonzalodieguezgaviola@gmail.com
