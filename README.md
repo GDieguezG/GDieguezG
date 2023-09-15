@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Mi nombre es Gonzalo Dieguez Gaviola, licenciado de la Carrera de **Ciencias Ambientales :deciduous_tree: ** de la UBA. Actualmente me encuentro cursando la carrera de **"Introducción a la Ingenería en Inteligencia Artificial":robot:** en el Instituto Humai. 
+Mi nombre es Gonzalo Dieguez Gaviola, licenciado de la Carrera de **Ciencias Ambientales  ** de la UBA. Actualmente me encuentro cursando la carrera de **"Introducción a la Ingenería en Inteligencia Artificial"** :robot: en el Instituto Humai. 
 
 
 <!--
