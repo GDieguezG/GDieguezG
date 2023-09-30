@@ -10,7 +10,7 @@ Tengo especial interés en el área de la Inteligencia Artificial, enfocada en l
 
 ![1694632911911](https://github.com/GDieguezG/GDieguezG/assets/69656526/a77a1b9c-4741-4c14-8f4f-b071da106ded)
 
-### 🌐 Redes y Contacto :
+### 🌐 Redes y Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-dieguez-gaviola/) 
 
 ### 💻 Stack:
