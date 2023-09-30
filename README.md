@@ -8,7 +8,7 @@ Durante mi trayectoria profesional fui adquiriendo conocimientos en el área de 
 
 Tengo especial interés en el área de la Inteligencia Artificial, enfocada en la tematica ambiental, para ayudar en la toma de decisiones y en la resolución de problemas ambientales.
 
-![1694632911911](https://github.com/GDieguezG/GDieguezG/assets/69656526/a77a1b9c-4741-4c14-8f4f-b071da106ded)
+![268359834-a77a1b9c-4741-4c14-8f4f-b071da106ded](https://github.com/GDieguezG/GDieguezG/assets/69656526/302ff36e-27d5-46de-a9ac-6341324a76f2)
 
 ### 🌐 Redes y Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-dieguez-gaviola/) 
