@@ -2,7 +2,7 @@
 
 Mi nombre es Gonzalo Dieguez Gaviola, licenciado de la Carrera de **Ciencias Ambientales** 🌳 de la UBA. Actualmente me encuentro cursando la carrera de **"Introducción a la Ingeniería en Inteligencia Artificial"** 🤖 en el Instituto Humai. 
 
-Trabajo en el Instituto Geográfico Nacional, desarrollando mapas de cobertura del suelo a nivel nacional 🗺️ y aplicaciones web 🖥️ para el área de Aplicaciones Geoespaciales.
+Trabajo en Fundación Vida Silvestre, como Analista Socioambienal dentro del equipo de Conservación 🐯.
 
 Durante mi trayectoria profesional fui adquiriendo conocimientos en el área de la programación, principalmente en el lenguaje Python, y en el área de la geoinformática, utilizando herramientas como QGIS, ArcGIS, Google Earth Engine, SAGA, entre otras ⚙️.
 
