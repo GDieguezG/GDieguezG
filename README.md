@@ -1,12 +1,12 @@
 ## Buenas! 👋
 
-Mi nombre es Gonzalo Dieguez Gaviola, licenciado de la Carrera de **Ciencias Ambientales** 🌳 de la UBA y la carrera de **"Introducción a la Ingeniería en Inteligencia Artificial"** 🤖 en el Instituto Humai. 
+Mi nombre es Gonzalo Dieguez Gaviola, licenciado de la Carrera de **Ciencias Ambientales** 🌳 de la UBA y la carrera de **"Introducción a la Ingeniería en Inteligencia Artificial"** 🤖 en el Instituto Humai. Actualmente estoy cursando la maestría en **Conservación de la Biodiversidad** en la Facultad de Ciencias Exactas y Naturales de la UBA
 
 Trabajo en Fundación Vida Silvestre, como Analista Socioambiental dentro del equipo de Conservación 🐯.
 
 Durante mi trayectoria profesional fui adquiriendo conocimientos en el área de la programación, principalmente en el lenguaje Python, y en el área de la geoinformática, utilizando herramientas como QGIS, ArcGIS, Google Earth Engine, SAGA, entre otras ⚙️.
 
-Tengo especial interés en el área de la Inteligencia Artificial, enfocada en la tematica ambiental, para ayudar en la toma de decisiones y en la resolución de problemas ambientales.
+Tengo especial interés en el área de la Inteligencia Artificial, enfocada en la tematica ambiental y la conservación de la biodiversidad, para ayudar en la toma de decisiones y en la resolución de problemas.
 
 ![268359834-a77a1b9c-4741-4c14-8f4f-b071da106ded](https://github.com/GDieguezG/GDieguezG/assets/69656526/302ff36e-27d5-46de-a9ac-6341324a76f2)
 
